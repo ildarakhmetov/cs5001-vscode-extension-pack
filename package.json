@@ -2,7 +2,7 @@
   "name": "cs-5001-vscode-extension-pack",
   "displayName": "CS 5001 VSCode Extension Pack",
   "description": "This extension pack contains all the extensions that CS 5001 students at Northeastern University (Vancouver) need.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ildarakhmetov",
   "author": {
     "name": "Ildar Akhmetov",

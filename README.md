@@ -1,16 +1,17 @@
-# cs-5001-vscode-extension-pack README
+# CS 5001 VSCode Extension Pack
 
-## Working with Markdown
+This extension pack is a collection of extensions that are useful for students in CS 5001 (Intensive Foundations of Computer Science) at Northeastern University.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Currently, the pack is only used in the Vancouver campus by Dr. Ildar Akhmetov (i.akhmetov@northeastern.edu).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Extensions Included
 
-## For more information
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Python Linting](https://marketplace.visualstudio.com/items?itemName=ms-python.flake8)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
+- [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-audio)
+- [Python Docstring Button](https://marketplace.visualstudio.com/items?itemName=NoahSyn10.pydoctestbtn)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Additional extensions may be added in the future.
 
 **Enjoy!**
