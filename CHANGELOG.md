@@ -4,6 +4,10 @@ All notable changes to the "cs-5001-vscode-extension-pack" extension pack will b
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.3]
+
+- Removed Live Share Audio extension
+- 
 ## [0.0.2]
 
 - Added `README.md`
